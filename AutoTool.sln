@@ -8,8 +8,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMvc", "ATMvc\ATMvc.csproj
 		{5AD330DF-615A-45E3-80DE-20AE5650A9D3} = {5AD330DF-615A-45E3-80DE-20AE5650A9D3}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATFramework", "..\..\ATFramework\ATFramework\ATFramework\ATFramework.csproj", "{5AD330DF-615A-45E3-80DE-20AE5650A9D3}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
