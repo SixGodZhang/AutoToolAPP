@@ -16,10 +16,10 @@
 [自动化工具架构图]
 
 ## 项目地址 ##
-github(项目文件未剔除干净，暂时不建议下载): [git@github.com:SixGodZhang/FineUIMvc.Examples.git](git@github.com:SixGodZhang/FineUIMvc.Examples.git "自动化工具")
+git@github.com:SixGodZhang/AutoToolAPP.git
 
 ## 更新日志 ##
-### 20189.11.24
+### 2018.11.24
 - 重新构建项目,并将ATFramework(自己写的一套常用C#API)集成进来
 
 ### 2018.5.10 ##
@@ -28,6 +28,7 @@ github(项目文件未剔除干净，暂时不建议下载): [git@github.com:Six
 - 登录验证功能：需用户登录
 
 【功能显示图】
+![工具界面图](https://github.com/SixGodZhang/AutoToolAPP/blob/master/Images/mainui.png)
 
 ## Bug收集 ##
 
