@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMvc", "ATMvc\ATMvc.csproj", "{88390123-B60F-4317-926C-C8281DC8BB63}"
+	ProjectSection(ProjectDependencies) = postProject
+		{5AD330DF-615A-45E3-80DE-20AE5650A9D3} = {5AD330DF-615A-45E3-80DE-20AE5650A9D3}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATFramework", "..\..\ATFramework\ATFramework\ATFramework\ATFramework.csproj", "{5AD330DF-615A-45E3-80DE-20AE5650A9D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88390123-B60F-4317-926C-C8281DC8BB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88390123-B60F-4317-926C-C8281DC8BB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88390123-B60F-4317-926C-C8281DC8BB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88390123-B60F-4317-926C-C8281DC8BB63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AD330DF-615A-45E3-80DE-20AE5650A9D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD330DF-615A-45E3-80DE-20AE5650A9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD330DF-615A-45E3-80DE-20AE5650A9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD330DF-615A-45E3-80DE-20AE5650A9D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A79A32F5-4004-49CB-BF15-5C6F26FD6F7D}
+	EndGlobalSection
+EndGlobal

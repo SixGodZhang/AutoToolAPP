@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Tree>
+  <TreeNode Text="配置信息">
+    <TreeNode Text="HelloWorld" NavigateUrl="~/Home/Hello">
+    </TreeNode>
+    <TreeNode Text="登录" NavigateUrl="~/Home/Login">
+    </TreeNode>
+  </TreeNode>
+  <!--图标定义具体查看 IconFont -->
+  <TreeNode Text="功能菜单">
+    <TreeNode Text ="测试-复制" NavigateUrl="~/BatArea/TestCommand">
+    </TreeNode>
+  </TreeNode>
+</Tree>
