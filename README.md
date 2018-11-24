@@ -28,7 +28,7 @@ git@github.com:SixGodZhang/AutoToolAPP.git
 - 登录验证功能：需用户登录
 
 【功能显示图】
-![工具界面图](https://github.com/SixGodZhang/AutoToolAPP/blob/master/Images/mainui.png)
+![工具界面图](https://github.com/SixGodZhang/AutoToolAPP/blob/master/images/mainui.png)
 
 ## Bug收集 ##
 
